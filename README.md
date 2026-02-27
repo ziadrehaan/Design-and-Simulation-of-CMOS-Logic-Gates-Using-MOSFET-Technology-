@@ -16,7 +16,7 @@ Static power consumption is very low.
 
 This project demonstrates the transistor-level implementation of basic logic gates.
 
-![Demo](https://image2url.com/r2/default/images/1772232888696-03dc3205-744a-4140-a3d5-81778ebf9197.png)
+![Demo](https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/16b7724f-6b54-4a4f-9f7f-8d46c2fbefe4.webp)
 
 
 
