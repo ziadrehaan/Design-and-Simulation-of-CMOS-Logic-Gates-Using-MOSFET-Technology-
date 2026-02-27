@@ -16,7 +16,7 @@ Static power consumption is very low.
 
 This project demonstrates the transistor-level implementation of basic logic gates.
 
-![Demo]([https://i.ibb.co/zTyZQQ58/Robot-Voiture-Arduino-vitant-Obstacles.png](https://image2url.com/r2/default/images/1772232888696-03dc3205-744a-4140-a3d5-81778ebf9197.png))
+![Demo](https://image2url.com/r2/default/images/1772232888696-03dc3205-744a-4140-a3d5-81778ebf9197.png)
 
 
 
