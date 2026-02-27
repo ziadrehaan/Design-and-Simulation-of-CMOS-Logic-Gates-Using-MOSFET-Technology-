@@ -2,7 +2,7 @@
 CMOS (Complementary Metal-Oxide-Semiconductor) technology is widely used in modern digital integrated circuits due to its low static power consumption, high noise immunity, and high integration density. 
 CMOS logic is based on complementary operation of PMOS and NMOS transistors, forming Pull-Up and Pull-Down networks. This project focuses on transistor-level implementation and simulation of basic CMOS logic gates using Proteus software. 
 
- 
+![Demo](https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/16b7724f-6b54-4a4f-9f7f-8d46c2fbefe4.webp) 
 
 In CMOS logic: 
 
@@ -16,7 +16,7 @@ Static power consumption is very low.
 
 This project demonstrates the transistor-level implementation of basic logic gates.
 
-![Demo](https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/16b7724f-6b54-4a4f-9f7f-8d46c2fbefe4.webp)
+
 
 
 
